@@ -1,3 +1,6 @@
+Assigning a Kubernetes Pod to a Specific Node
+===
+
 # Configure the auth-gateway Pod to Only Run on k8s-worker2
 
 ```sh
