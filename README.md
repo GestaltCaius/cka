@@ -1,15 +1,19 @@
 CKA
 ===
 
-* [Setting up kubeadm cluster (1 control, 2 workers)](./setup_kubeadm.md)
-* [Upgrade cluster](./upgrade_cluster.md)
-* [Backup `etcd`](./backup_etcd.md)
-* [`kubectl`](./kubectl.md)
-* [RBAC](./rbac.md)
-* [Metrics](./metrics.md)
-* [Passing Configuration Data to a Kubernetes Container](./env_config.md)
-* [Restart policies and Liviness probes](./restart_policies.md)
-* [Using Init Containers in Kubernetes](./init_containers.md)
-* [Assigning a Kubernetes Pod to a Specific Node](./node_selector.md)
+1. [Setting up kubeadm cluster (1 control, 2 workers)](./setup_kubeadm.md)
+1. [Upgrade cluster](./upgrade_cluster.md)
+1. [Backup `etcd`](./backup_etcd.md)
+1. [`kubectl`](./kubectl.md)
+1. [RBAC](./rbac.md)
+1. [Metrics](./metrics.md)
+1. [Passing Configuration Data to a Kubernetes Container](./env_config.md)
+1. [Restart policies and Liviness probes](./restart_policies.md)
+1. [Using Init Containers in Kubernetes](./init_containers.md)
+1. [Assigning a Kubernetes Pod to a Specific Node](./node_selector.md)
+1. [Using DaemonSets in Kubernetes](./daemon_sets.md)
+1. [Using Static Pods in Kubernetes](./static_pods.md)
+1. [Managing Kubernetes Applications with Deployments](./deployments.md)
+1. [Exploring Kubernetes Networking](./networking.md)
 
 
