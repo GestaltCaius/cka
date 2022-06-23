@@ -15,5 +15,7 @@ CKA
 1. [Using Static Pods in Kubernetes](./static_pods.md)
 1. [Managing Kubernetes Applications with Deployments](./deployments.md)
 1. [Exploring Kubernetes Networking](./networking.md)
-
+1. [Exposing Kubernetes Pods Using Services](./service.md)
+1. [Using Kubernetes Services with DNS](./dns.md)
+1. [Using Kubernetes Ingress](./ingress.md)
 
