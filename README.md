@@ -18,4 +18,3 @@ CKA
 1. [Exposing Kubernetes Pods Using Services](./service.md)
 1. [Using Kubernetes Services with DNS](./dns.md)
 1. [Using Kubernetes Ingress](./ingress.md)
-
