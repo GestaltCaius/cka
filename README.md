@@ -1,6 +1,8 @@
 CKA
 ===
 
+# Course
+
 1. [Setting up kubeadm cluster (1 control, 2 workers)](./setup_kubeadm.md)
 1. [Upgrade cluster](./upgrade_cluster.md)
 1. [Backup `etcd`](./backup_etcd.md)
@@ -18,3 +20,13 @@ CKA
 1. [Exposing Kubernetes Pods Using Services](./service.md)
 1. [Using Kubernetes Services with DNS](./dns.md)
 1. [Using Kubernetes Ingress](./ingress.md)
+1. [Managing Container Storage with Kubernetes Volumes](./volumes.md)
+1. [Persistent Volumes](./persistent_volumes.md)
+1. [Troubleshooting Nodes](./troubleshooting_node.md)
+1. [Troubleshooting Pods](./troubleshooting_pods.md)
+
+---
+
+# Practical
+
+1. []()
