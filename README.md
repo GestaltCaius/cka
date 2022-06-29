@@ -29,4 +29,8 @@ CKA
 
 # Practical
 
-1. []()
+1. [Exam 1](./practical/exam1.md)
+
+# Links
+
+* [Deployments rollbacks, rollout history, versionning, etc.](https://learnk8s.io/kubernetes-rollbacks)
