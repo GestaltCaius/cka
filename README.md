@@ -30,6 +30,11 @@ CKA
 # Practical
 
 1. [Exam 1](./practical/exam1.md)
+1. [Exam 2](./practical/exam2.md)
+1. [Exam 3](./practical/exam3.md)
+1. [Exam 4](./practical/exam4.md)
+1. [Exam 5](./practical/exam5.md)
+1. [Exam 6](./practical/exam6.md)
 
 # Links
 
