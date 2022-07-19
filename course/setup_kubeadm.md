@@ -1,6 +1,13 @@
 Setting up `kubeadm`
 ===
 
+# Liens utiles
+
+1. [`containerd` prerequisites](https://kubernetes.io/docs/setup/production-environment/container-runtimes/#install-and-configure-prerequisites)
+2. [Install `containerd`](https://kubernetes.io/docs/tasks/administer-cluster/migrating-from-dockershim/change-runtime-containerd/#install-containerd)
+3. [Installing `kubeadm`, `kubelet` and `kubectl`](https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/install-kubeadm/#installing-kubeadm-kubelet-and-kubectl)
+4. 
+
 # Install k8s packages
 
 ```sh

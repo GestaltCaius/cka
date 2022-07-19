@@ -35,6 +35,10 @@ CKA
 1. [Exam 4](./practical/exam4.md)
 1. [Exam 5](./practical/exam5.md)
 1. [Exam 6](./practical/exam6.md)
+1. [Exam 7](./practical/exam6.md)
+1. [Exam 8](./practical/exam6.md)
+1. [Exam 9](./practical/exam6.md)
+1. [Exam 10](./practical/exam6.md)
 
 # Links
 
